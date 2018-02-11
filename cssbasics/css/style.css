@@ -4,6 +4,7 @@
 body {
     color: #878787;
     margin: 0;
+    font-size: 1em;
 }
 
 /* Class selector */
@@ -14,6 +15,15 @@ body {
 .title {
     color: white;
     font-size: 26px;
+}
+
+.primary-content, 
+.secondary-content {
+    width: 60%;
+} 
+
+.primary-content {
+
 }
 
 ol li {
@@ -36,6 +46,7 @@ h3 {
     font-size: 20px;
     color: #48525C;
 }
+
 
 .primary-content {
     text-align: center;
